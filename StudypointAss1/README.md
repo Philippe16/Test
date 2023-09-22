@@ -24,8 +24,8 @@ toothpaste with your left hand; turn the cap
 anti-clockwise)
 
 **Materials Needed:**
-A toothbrush
-Toothpaste
+A toothbrush,
+Toothpaste,
 A cup or glass of clean water
 
 
