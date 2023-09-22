@@ -23,8 +23,7 @@ alien has teeth exactly like yours, and is as smart as you, but it needs a clear
 toothpaste with your left hand; turn the cap
 anti-clockwise)
 
-Materials Needed:
-
+**Materials Needed:**
 A toothbrush
 Toothpaste
 A cup or glass of clean water
