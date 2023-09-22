@@ -1,4 +1,6 @@
-## 1.1 SHOOTING
+# Assignment 1
+
+### 1.1 SHOOTING
 A woman fired a shot at a man with her gun, but the man did not die. List the possible
 reasons for the man not dying.
 
@@ -15,7 +17,7 @@ reasons for the man not dying.
 - By pure luck. The victim didn't die to the bullet only by pure luck.
 
 
-## 1.2 ALIEN
+### 1.2 ALIEN
 An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
 alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the
 toothpaste with your left hand; turn the cap
@@ -47,7 +49,7 @@ Step 15: Clean up after you.
 
 
 
-## 3. GIVE YOUR THOUGHTS ON TDD 
+### 3. GIVE YOUR THOUGHTS ON TDD 
 
 Test-Driven Development (TDD) Reflection
 Positive Aspects of TDD
